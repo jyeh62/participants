@@ -141,16 +141,6 @@
             "use_now": "Y",
             "attributes": [
                 {
-                    "attr_eng_name": "campus_location",
-                    "attr_kor_name": "캠퍼스",
-                    "attr_type": "99",
-                    "attr_qr_yn": "N",
-                    "attr_align": "00",
-                    "attr_properties": [
-                        "01"
-                    ]
-                },
-                {
                     "attr_eng_name": "college",
                     "attr_kor_name": "대학",
                     "attr_type": "01",
@@ -173,13 +163,6 @@
                         "01",
                         "02"
                     ]
-                },
-                {
-                    "attr_eng_name": "description",
-                    "attr_kor_name": "설명",
-                    "attr_type": "99",
-                    "attr_qr_yn": "N",
-                    "attr_align": "00"
                 },
                 {
                     "attr_eng_name": "id_type",
@@ -214,30 +197,12 @@
                     "attr_qr_yn": "N",
                     "attr_align": "00"
                 },
-                {
-                    "attr_eng_name": "registered_status",
-                    "attr_kor_name": "학적상태",
-                    "attr_type": "99",
-                    "attr_qr_yn": "N",
-                    "attr_align": "00"
-                },
+
                 {
                     "attr_eng_name": "school",
                     "attr_kor_name": "학부",
                     "attr_type": "02",
                     "attr_order_num": "1",
-                    "attr_qr_yn": "N",
-                    "attr_align": "01",
-                    "attr_properties": [
-                        "01",
-                        "02"
-                    ]
-                },
-                {
-                    "attr_eng_name": "status",
-                    "attr_kor_name": "신분",
-                    "attr_type": "02",
-                    "attr_order_num": "2",
                     "attr_qr_yn": "N",
                     "attr_align": "01",
                     "attr_properties": [
@@ -257,14 +222,7 @@
                         "02"
                     ]
                 },
-                {
-                    "attr_eng_name": "university",
-                    "attr_kor_name": "대학교",
-                    "attr_type": "03",
-                    "attr_qr_yn": "N",
-                    "attr_align": "00"
-                },
-                {
+               {
                     "attr_eng_name": "__initial_card_number__",
                     "attr_kor_name": "출입키",
                     "attr_type": "99",
