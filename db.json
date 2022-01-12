@@ -1,0 +1,215 @@
+{
+  "participants" : [
+        {
+            "id" : "1",
+            "service_id": "1",
+            "schema_id": "CWC2eWkYxrFN73fSNjNFpd:2:CertificateOfDataScientist:1.0",
+            "cred_def_id": "TwTmHugwzxLFL1gSrNyRbV:3:CL:1629437987:c9808f64-3daa-489d-99a6-eb0c99458c78",
+            "did_auth_challenge": "https://if.multicampus.com/invitation-url",
+            "did_type": "0",
+            "participants_kor_name": "멀티캠퍼스 ProDS",
+            "participants_eng_name": "멀티캠퍼스 ProDS",
+            "participants_rest_api_url": "https://if.multicampus.com",
+            "participants_category": "0",
+            "i_1x_img_url": "https://api.myinitial.io/ssw/image/2021/09/30/20210930162719MIX1.png",
+            "i_2x_img_url": "https://api.myinitial.io/ssw/image/2021/09/30/20210930162719MIX2.png",
+            "i_3x_img_url": "https://api.myinitial.io/ssw/image/2021/09/30/20210930162719MIX3.png",
+            "public_did": "did:ssw:TwTmHugwzxLFL1gSrNyRbV",
+            "participants_view_yn": "Y",
+            "schema_ver": "1.0",
+            "cloud_use_yn": "Y",
+            "role" : "issuer",
+            "use_now": "Y",
+            "attributes": [
+                {
+                    "attr_eng_name": "eval_qulf_no",
+                    "attr_kor_name": "평가자격번호"
+                },
+                {
+                    "attr_eng_name": "mbr_brtdt",
+                    "attr_kor_name": "생년월일"
+                },
+                {
+                    "attr_eng_name": "mbr_fnm",
+                    "attr_kor_name": "회원명"
+                },
+                {
+                    "attr_eng_name": "mend_edu_dtm",
+                    "attr_kor_name": "보수교육일시"
+                },
+                {
+                    "attr_eng_name": "psexm_anuc_dtm",
+                    "attr_kor_name": "합격공지일시"
+                },
+                {
+                    "attr_eng_name": "qulfd_issno",
+                    "attr_kor_name": "자격증발급번호"
+                },
+                {
+                    "attr_eng_name": "qulf_avl_dtm",
+                    "attr_kor_name": "자격유효일시"
+                },
+                {
+                    "attr_eng_name": "qulf_eval_grd_nm",
+                    "attr_kor_name": "자격평가등급"
+                },
+                {
+                    "attr_eng_name": "qulf_eval_nm",
+                    "attr_kor_name": "자격평가"
+                },
+                {
+                    "attr_eng_name": "renw_reg_dtm",
+                    "attr_kor_name": "갱신등록일시"
+                },
+                {
+                    "attr_eng_name": "today",
+                    "attr_kor_name": "발급일시"
+                }
+            ]
+        },
+        {
+            "id" : "2",
+            "service_id": "2",
+            "schema_id": "Tqs8emEv7NTLrLkW8eVp9f:2:UniCertificateOfGraduationKor:1.0",
+            "cred_def_id": "QjuxXDs69RLKbSsCccehnQ:3:CL:1605675654:UniCertificateOfGraduationKorRev",
+            "did_auth_challenge": "http://initialdid.certpia.com:8080/auth/challenge",
+            "did_type": "0",
+            "participants_kor_name": "(주)아이앤텍",
+            "participants_eng_name": "(주)아이앤텍",
+            "participants_rest_api_url": "http://initialdid.certpia.com:8080",
+            "participants_i_1x_img_url": "https://api.myinitial.io/ssw/image/2020/11/20/20201120105847MIX1.png",
+            "participants_i_2x_img_url": "https://api.myinitial.io/ssw/image/2020/11/20/20201120105847MIX2.png",
+            "participants_i_3x_img_url": "https://api.myinitial.io/ssw/image/2020/11/20/20201120105847MIX3.png",
+            "public_did": "did:ssw:QjuxXDs69RLKbSsCccehnQ",
+            "participants_view_yn": "Y",
+            "schema_ver": "1.0",
+            "cloud_use_yn": "N",
+            "use_now": "Y",
+            "attributes": [
+                {
+                    "attr_eng_name": "date_of_admission",
+                    "attr_kor_name": "입학년월일"
+                },
+                {
+                    "attr_eng_name": "date_of_birth",
+                    "attr_kor_name": "생년월일"
+                },
+                {
+                    "attr_eng_name": "date_of_expiration",
+                    "attr_kor_name": "증명서만료일"
+                },
+                {
+                    "attr_eng_name": "date_of_graduation",
+                    "attr_kor_name": "졸업년월일"
+                },
+                {
+                    "attr_eng_name": "date_of_issue",
+                    "attr_kor_name": "발급일자"
+                },
+                {
+                    "attr_eng_name": "degree_name",
+                    "attr_kor_name": "학위명"
+                },
+                {
+                    "attr_eng_name": "department",
+                    "attr_kor_name": "학과"
+                },
+                {
+                    "attr_eng_name": "identification_number",
+                    "attr_kor_name": "증명서고유번호"
+                },
+                {
+                    "attr_eng_name": "issue_number",
+                    "attr_kor_name": "발급번호(대학)"
+                },
+                {
+                    "attr_eng_name": "major",
+                    "attr_kor_name": "전공"
+                },
+                {
+                    "attr_eng_name": "name",
+                    "attr_kor_name": "성명"
+                },
+                {
+                    "attr_eng_name": "student_id",
+                    "attr_kor_name": "학번"
+                },
+                {
+                    "attr_eng_name": "uni_name",
+                    "attr_kor_name": "대학명"
+                }
+            ]
+        },
+        {
+            "id" : "3",
+            "service_id": "2",
+            "schema_code": "000017",
+            "schema_id": "CWC2eWkYxrFN73fSNjNFpd:2:UniCertificateOfGraduationKor:2.0",
+
+            "cred_def_id": "QjuxXDs69RLKbSsCccehnQ:3:CL:1620894731:UniCertificateOfGraduationKorRev2",
+            "did_auth_challenge": "http://initialdid.certpia.com:8080/auth/challenge",
+            "did_type": "2",
+            "participants_kor_name": "(주)아이앤텍",
+            "participants_eng_name": "(주)아이앤텍",
+            "participants_rest_api_url": "http://initialdid.certpia.com:8080",
+            "participants_i_1x_img_url": "https://api.myinitial.io/ssw/image/2020/11/27/20201127164831MIX1.png",
+            "participants_i_2x_img_url": "https://api.myinitial.io/ssw/image/2020/11/27/20201127164831MIX2.png",
+            "participants_i_3x_img_url": "https://api.myinitial.io/ssw/image/2020/11/27/20201127164831MIX3.png",
+            "public_did": "did:ssw:QjuxXDs69RLKbSsCccehnQ",
+            "view_yn": "Y",
+            "schema_ver": "2.0",
+            "cloud_use_yn": "N",
+            "use_now": "Y",
+            "attributes": [
+                {
+                    "attr_eng_name": "date_of_birth",
+                    "attr_kor_name": "생년월일"
+                },
+                {
+                    "attr_eng_name": "date_of_expiration",
+                    "attr_kor_name": "증명서만료일"
+                },
+                {
+                    "attr_eng_name": "date_of_graduation",
+                    "attr_kor_name": "졸업년월일"
+                },
+                {
+                    "attr_eng_name": "date_of_issue",
+                    "attr_kor_name": "발급일자"
+                },
+                {
+                    "attr_eng_name": "department",
+                    "attr_kor_name": "학과"
+                },
+                {
+                    "attr_eng_name": "identification_number",
+                    "attr_kor_name": "증명서고유번호"
+                },
+                {
+                    "attr_eng_name": "issue_number",
+                    "attr_kor_name": "발급번호(대학)"
+                },
+                {
+                    "attr_eng_name": "major",
+                    "attr_kor_name": "전공"
+                },
+                {
+                    "attr_eng_name": "minor",
+                    "attr_kor_name": "부전공"
+                },
+                {
+                    "attr_eng_name": "name",
+                    "attr_kor_name": "성명"
+                },
+                {
+                    "attr_eng_name": "student_id",
+                    "attr_kor_name": "학번"
+                },
+                {
+                    "attr_eng_name": "uni_name",
+                    "attr_kor_name": "대학명"
+                }
+            ]
+        }
+    ]
+}
