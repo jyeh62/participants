@@ -87,72 +87,8 @@
             "use_now": "Y",
             "attributes": [
                 {
-                    "attr_eng_name": "college",
-                    "attr_kor_name": "단과대학"
-                },
-                {
-                    "attr_eng_name": "date_of_admission",
-                    "attr_kor_name": "입학년월일"
-                },
-                {
-                    "attr_eng_name": "date_of_birth",
-                    "attr_kor_name": "생년월일"
-                },
-                {
-                    "attr_eng_name": "date_of_expiration",
-                    "attr_kor_name": "증명서만료일"
-                },
-                {
-                    "attr_eng_name": "date_of_graduation",
-                    "attr_kor_name": "졸업년월일"
-                },
-                {
-                    "attr_eng_name": "date_of_issue",
-                    "attr_kor_name": "발급일자"
-                },
-                {
-                    "attr_eng_name": "degree_name",
-                    "attr_kor_name": "학위명"
-                },
-                {
-                    "attr_eng_name": "degree_number",
-                    "attr_kor_name": "학위등록번호"
-                },
-                {
-                    "attr_eng_name": "department",
-                    "attr_kor_name": "학과"
-                },
-                {
-                    "attr_eng_name": "double_major",
-                    "attr_kor_name": "복수전공"
-                },
-                {
                     "attr_eng_name": "identification_number",
                     "attr_kor_name": "증명서고유번호"
-                },
-                {
-                    "attr_eng_name": "issue_number",
-                    "attr_kor_name": "발급번호(대학)"
-                },
-                {
-                    "attr_eng_name": "major",
-                    "attr_kor_name": "전공"
-                },
-                {
-                    "attr_eng_name": "minor",
-                    "attr_kor_name": "부전공"
-                },
-                {
-                    "attr_eng_name": "name",
-                    "attr_kor_name": "성명"
-                },
-                {
-                    "attr_eng_name": "student_id",
-                    "attr_kor_name": "학번"
-                },
-                {
-                    "attr_eng_name": "uni_name",
-                    "attr_kor_name": "대학명"
                 }
             ]
         },
@@ -177,72 +113,8 @@
             "use_now": "Y",
             "attributes": [
                 {
-                    "attr_eng_name": "college",
-                    "attr_kor_name": "단과대학"
-                },
-                {
-                    "attr_eng_name": "date_of_admission",
-                    "attr_kor_name": "입학년월일"
-                },
-                {
-                    "attr_eng_name": "date_of_birth",
-                    "attr_kor_name": "생년월일"
-                },
-                {
-                    "attr_eng_name": "date_of_expiration",
-                    "attr_kor_name": "증명서만료일"
-                },
-                {
-                    "attr_eng_name": "date_of_graduation",
-                    "attr_kor_name": "졸업년월일"
-                },
-                {
-                    "attr_eng_name": "date_of_issue",
-                    "attr_kor_name": "발급일자"
-                },
-                {
-                    "attr_eng_name": "degree_name",
-                    "attr_kor_name": "학위명"
-                },
-                {
-                    "attr_eng_name": "degree_number",
-                    "attr_kor_name": "학위등록번호"
-                },
-                {
-                    "attr_eng_name": "department",
-                    "attr_kor_name": "학과"
-                },
-                {
-                    "attr_eng_name": "double_major",
-                    "attr_kor_name": "복수전공"
-                },
-                {
                     "attr_eng_name": "identification_number",
                     "attr_kor_name": "증명서고유번호"
-                },
-                {
-                    "attr_eng_name": "issue_number",
-                    "attr_kor_name": "발급번호(대학)"
-                },
-                {
-                    "attr_eng_name": "major",
-                    "attr_kor_name": "전공"
-                },
-                {
-                    "attr_eng_name": "minor",
-                    "attr_kor_name": "부전공"
-                },
-                {
-                    "attr_eng_name": "name",
-                    "attr_kor_name": "성명"
-                },
-                {
-                    "attr_eng_name": "student_id",
-                    "attr_kor_name": "학번"
-                },
-                {
-                    "attr_eng_name": "uni_name",
-                    "attr_kor_name": "대학명"
                 }
             ]
         },
