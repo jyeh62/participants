@@ -165,20 +165,6 @@
                     ]
                 },
                 {
-                    "attr_eng_name": "id_type",
-                    "attr_kor_name": "신분증명",
-                    "attr_type": "99",
-                    "attr_qr_yn": "N",
-                    "attr_align": "00"
-                },
-                {
-                    "attr_eng_name": "issue_date",
-                    "attr_kor_name": "발급일",
-                    "attr_type": "99",
-                    "attr_qr_yn": "N",
-                    "attr_align": "00"
-                },
-                {
                     "attr_eng_name": "name",
                     "attr_kor_name": "성명",
                     "attr_type": "00",
@@ -196,19 +182,6 @@
                     "attr_type": "04",
                     "attr_qr_yn": "N",
                     "attr_align": "00"
-                },
-
-                {
-                    "attr_eng_name": "school",
-                    "attr_kor_name": "학부",
-                    "attr_type": "02",
-                    "attr_order_num": "1",
-                    "attr_qr_yn": "N",
-                    "attr_align": "01",
-                    "attr_properties": [
-                        "01",
-                        "02"
-                    ]
                 },
                 {
                     "attr_eng_name": "student_id",
